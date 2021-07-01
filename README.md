@@ -1,9 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Android
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HezeCode&layout=compact&locale=cn&count_private=true&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://HezeCode.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96&repo=Android,JavaStudy,KotlinStudy" />
 </a>
 <a href="https://HezeCode.github.io">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HezeCode&layout=compact&locale=cn&count_private=true&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96" />
