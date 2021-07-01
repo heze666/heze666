@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=F5FFF5&icon_color=92FE9D&title_color=92FE9D)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=F5FFF5&icon_color=ffd89b&title_color=ffd89b)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HezeCode&layout=compact&locale=cn&count_private=true&bg_color=45,36D1DC,5B86E5&text_color=F5F5F5&icon_color=773691)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ffd89b 67B26F 92FE9D
