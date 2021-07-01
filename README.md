@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HezeCode&layout=compact&locale=cn&count_private=true&bg_color=45,36D1DC,5B86E5&text_color=F5F5F5&icon_color=773691&title_color=FFFC00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HezeCode&layout=compact&locale=cn&count_private=true&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ffd89b 67B26F 92FE9D #F3F9A7 #FFFC00
 **HezeCode/HezeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
