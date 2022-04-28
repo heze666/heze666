@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: fu.heze@qqcom
 <a href="https://HezeCode.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&include_all_commits=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96" />
 </a>
