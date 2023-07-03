@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: fu.heze@qqcom
+- 📫 How to reach me: fu.heze@qq.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HezeCode&count_private=true&&show_icons=true&bg_color=f6f6f6#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
